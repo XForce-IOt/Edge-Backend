@@ -1,4 +1,4 @@
-package com.xforce.pethealth.shared.infraestructure.persistence.jpa;
+package com.xforce.edge.shared.infraestructure.persistence.jpa;
 
 import org.hibernate.boot.model.naming.Identifier;
 import org.hibernate.boot.model.naming.PhysicalNamingStrategy;

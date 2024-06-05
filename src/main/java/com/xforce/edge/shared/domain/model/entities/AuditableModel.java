@@ -1,4 +1,4 @@
-package com.xforce.pethealth.shared.domain.model.entities;
+package com.xforce.edge.shared.domain.model.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

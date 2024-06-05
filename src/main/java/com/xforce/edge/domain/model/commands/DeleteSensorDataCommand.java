@@ -1,2 +1,4 @@
-package com.xforce.edge.domain.model.commands;public record DeleteSensorDataCommand() {
+package com.xforce.edge.domain.model.commands;
+
+public record DeleteSensorDataCommand(Long sensorDataId) {
 }
